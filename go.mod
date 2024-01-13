@@ -1,6 +1,6 @@
 module github.com/kyong0612/fitness-saporter
 
-go 1.21.5
+go 1.21.6
 
 require (
 	github.com/cosmtrek/air v1.49.0
