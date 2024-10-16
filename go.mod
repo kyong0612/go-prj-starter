@@ -3,7 +3,7 @@ module github.com/kyong0612/fitness-saporter
 go 1.21.6
 
 require (
-	github.com/cosmtrek/air v1.49.0
+	github.com/cosmtrek/air v1.61.1
 	github.com/golangci/golangci-lint v1.55.2
 	golang.org/x/vuln v1.0.1
 )
