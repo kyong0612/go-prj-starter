@@ -4,7 +4,7 @@ go 1.21.6
 
 require (
 	github.com/cosmtrek/air v1.49.0
-	github.com/golangci/golangci-lint v1.55.2
+	github.com/golangci/golangci-lint v1.64.8
 	golang.org/x/vuln v1.0.1
 )
 
